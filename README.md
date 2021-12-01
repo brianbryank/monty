@@ -69,3 +69,5 @@ pall This is the end of our program. Monty is awesome!
 # The work is still in progress, and a lot of things like aliases and piping, redirection,... are not available.
 
 # Authors
+* Brian kiplangat
+* Nancy chemutai
