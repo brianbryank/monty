@@ -11,8 +11,8 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 
 # Installation:
 clone the repository
-don't know if you have to go with it all depends on 
-https://github.com/Sertsev/monty
+
+https://github.com/Sertsev/mont
 
 compile with
 
