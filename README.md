@@ -12,7 +12,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 # Installation:
 clone the repository
 
-https://github.com/Sertsev/monty
+https://github.com/Sertsev/mont
 
 compile with
 
@@ -20,7 +20,7 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 
 The monty program
 Usage: monty file
-    where file is the path to the file containing Monty byte code
+where file is the path to the file containing Monty byte code
 If the user does not give any file or more than one argument to your program, print the error message USAGE: monty file, followed by a new line, and exit with the status EXIT_FAILURE
 If, for any reason, it’s not possible to open the file, print the error message Error: Can't open file <file>, followed by a new line, and exit with the status EXIT_FAILURE
     where <file> is the name of the file
